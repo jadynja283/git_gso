@@ -8,3 +8,5 @@ Færsla er t.d. að slá inn notendanafn eða lykilorð að færa inn myndband, 
 inn eða færa skrár í aðrar möppur, búa til nýja möppu.
 
 Skrá er einhvað sem að tekur gögn og upplýsingar og geymir þau í möppum eða stakt.
+
+Skráarsnið er grunnurinn að skrá sem gögnin eru röðuð í skránna. Sér um að raða í skránna í stafrófsröð stærð o.f.v.
