@@ -6,3 +6,5 @@ Gagnasafn er eins og google sem er einhvern áhveðinn staður með mikið af g�
 
 Færsla er t.d. að slá inn notendanafn eða lykilorð að færa inn myndband, setja myndband 
 inn eða færa skrár í aðrar möppur, búa til nýja möppu.
+
+Skrá er einhvað sem að tekur gögn og upplýsingar og geymir þau í möppum eða stakt.
