@@ -1,3 +1,5 @@
 ﻿Hér verður farið yfir grundvallaratriðin fyrir gagnasöfnun, farið verður yfir hvað þetta gerir og  þýðir. Eftirfarandi orðtök verður farið yfir gögn, gagnasafn, gagnasafnskerfi, færsla, skrá, skráarsnið og gildi.
 
 það eru til mörg form af gögnum. Rafræn gögn eru gögn sem eru í tölvum, spjaldtölvum og símum sem eru ekki stafræn gögn er hinsvegar léttara að komast yfir þær upplýsingarnar. Stafræn gögn eru gögn sem eru í bókum og blöðum eth sem er ekki á netinu og er erfiðara að ná í þau er gott að nota það því það er öruggara fyrir gögnin ef þau eru viðkvæm. Önnur form er t.d geisladiskar og vínillplötur það sem er ekki rafrænt og sem er ekki stafrænt.
+
+Gagnasafn er eins og google sem er einhvern áhveðinn staður með mikið af gögnum á einum stað. Gagnasafnskerfi er bara að fara yfir gögnin og passa að þau fari á rétta staði er sérkerfi fyrir það flokkar og fer yfir allt sem er þar inni allar skrár og allt.
