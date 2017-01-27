@@ -10,3 +10,5 @@ inn eða færa skrár í aðrar möppur, búa til nýja möppu.
 Skrá er einhvað sem að tekur gögn og upplýsingar og geymir þau í möppum eða stakt.
 
 Skráarsnið er grunnurinn að skrá sem gögnin eru röðuð í skránna. Sér um að raða í skránna í stafrófsröð stærð o.f.v.
+
+Þetta voru helstu hugtök og orð (grundallaratriðin) fyrir gagnasöfnun, farið var yfir hlutina sem þarf að vita fyrir þennan áfanga og það sem nánar verður farið í seinna í þessum áfanga. 
