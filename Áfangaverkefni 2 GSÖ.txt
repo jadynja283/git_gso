@@ -1,0 +1,1 @@
+﻿Hér verður farið yfir grundvallaratriðin fyrir gagnasöfnun, farið verður yfir hvað þetta gerir og  þýðir. Eftirfarandi orðtök verður farið yfir gögn, gagnasafn, gagnasafnskerfi, færsla, skrá, skráarsnið og gildi.
